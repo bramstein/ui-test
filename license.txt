@@ -1,0 +1,1 @@
+The code and media files (Except the font file, see FONT_LICENSE.txt) in this directory fall under the public domain. This means you can do whatever you want with it, even claim it as your own. If it breaks you get to keep both pieces. Use at your own risk.
